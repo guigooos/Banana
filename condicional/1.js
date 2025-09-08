@@ -1,6 +1,4 @@
 
-// Usamos prompt() para pedir que o usuário digite sua idade
-// O valor retornado é uma string, então usamos Number() para converter em número
 let idade = 19;
 
 // Verifica se a idade é menor que 18
